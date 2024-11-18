@@ -1,18 +1,18 @@
 body {
-    color: hsl(58, 34%, 71%);
-    background: hsl(37, 72%, 69%);
+    color: hsl(246, 76%, 59%);
+    background: hsl(266, 77%, 47%);
     margin: 0px;
 }
 
 header {
-    border-bottom: solid 2px hsl(0, 65%, 75%);
+    border-bottom: solid 2px hsl(0, 87%, 50%);
     padding: 20px;
     font-size: 32px;
-    color: #a5efba;
+    color: #ec59bb;
 }
 
 .chamada {
-    background: hsl(111, 90%, 76%);
+    background: hsl(221, 79%, 54%);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
